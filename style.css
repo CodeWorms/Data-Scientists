@@ -1,0 +1,6 @@
+/* PLEASE DONOT TOUCH THIS FILE! I HAVE ADDED A BORDER TO THE TABLE SO THAT IT LOOKS BETTER */
+
+table,th,td,tbody,thead{
+	border:2px solid black;
+	padding:5px;
+}
